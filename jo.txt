@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 that is in de branch
 than we chang de
 =======
 adb kongde
+>>>>>>> de
+=======
+adb kongde
+we hero
 >>>>>>> de
